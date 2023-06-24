@@ -1,5 +1,5 @@
 1. For the given JSON iterate over all for loops (for,forEach, for in, for of)
-- Refer loops_task.js in the source repository. https://github.com/GitPraveenKumarHubA/GUVI-Day-3-Activities
+- Refer loops_tasks.js in the source repository. https://github.com/GitPraveenKumarHubA/GUVI-Day-3-Activities
 
 2. Create your own resume in JSON format
 - Refer praveen-resume.json in the source repository. https://github.com/GitPraveenKumarHubA/GUVI-Day-3-Activities
