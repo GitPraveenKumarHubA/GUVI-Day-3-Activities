@@ -1,0 +1,65 @@
+{
+    "introduction_and_personal_details": {
+      "name": "Praveen Kumar A",
+      "email": "praveen@gmail.com",
+      "phone": "7418737841",
+      "degree": "BE-Aeronautical Engineering",
+      "summary": "A budding Engineer who is open to work in technology and opportunities in industry 4.0.",
+      "location": {
+        "address": "43/20, Old Street, Madipakkam,Chennai-600018.",
+        "postalCode": "600018",
+        "city": "Chennai",
+        "countryCode": "India",
+        "region": "IND"
+      }
+    },
+    "academic_details": [
+      {
+        "institution": "REC",
+        "area": "AE",
+        "studyType": "Regular",
+        "batch":"2017-2021",
+        "cgpa": "8.23",
+        "courses": ["AE"]
+      }
+    ],
+    "technical_skills": [
+      {
+        "name": "Designing & Modelling",
+        "keywords": ["AutoCAD", "CATIA"]
+      }
+      {
+        "name": "Simulating Software",
+        "keywords": ["ANSYS"]
+      }
+      {
+        "name": "Programming Languages",
+        "keywords": ["Python",  "C", "Javascript"]
+      }
+      {
+        "name": "Web Development",
+        "keywords": ["HTML", "JS", "CSS"]
+      }
+      {
+        "name": "Libraries",
+        "keywords": ["React", "Node"]
+      }
+    ],
+    "languages_known": [
+      {
+        "language": ["English", "Tamil"]
+      }
+    ],
+    "area_of_interests": [
+      {
+        "name": "Programming",
+        "keywords": ["Python", "Frontend Development", "C Programming","Javascript"]
+      }
+    ],
+    "hobbies": [
+        {
+          "name": "spending leisure time",
+          "keywords": ["Listening Songs", "Playing sports such as basketball, badminton ,carrom ,chess ,cricket","Binge Watching", "Surfing Internet"]
+        }
+      ]
+  }
