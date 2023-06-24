@@ -1,0 +1,12 @@
+1. For the given JSON iterate over all for loops (for,forEach, for in, for of)
+- Refer loops_task.js in the source repository. https://github.com/GitPraveenKumarHubA/GUVI-Day-3-Activities
+
+2. Create your own resume in JSON format
+- Refer praveen-resume.json in the source repository. https://github.com/GitPraveenKumarHubA/GUVI-Day-3-Activities
+
+3. Read about the difference between window, screen, and document in JavaScript
+
+- Window is the main JavaScript object root, aka the global object in a browser, and also can be treated as the root of the document object model. You can access it as window
+- window. screen or just screen is a small information object about physical screen dimensions.
+- window. document or just document is the main object of the potentially visible (or better yet: rendered) document object model/DOM.
+
